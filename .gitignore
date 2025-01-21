@@ -1,0 +1,6 @@
+##Ignore files and directories
+node_modules
+test-results
+package-lock.json
+lighthouse-reports
+html-report
